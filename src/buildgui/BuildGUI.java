@@ -16,6 +16,7 @@ public class BuildGUI {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        new MouseEvent().setVisible(true);
     }
     
 }
